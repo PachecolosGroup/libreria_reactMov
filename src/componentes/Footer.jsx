@@ -6,8 +6,7 @@ const Footer = () => {
         <div className="encabezado">
           <h3 className="titulo">Redes Sociales</h3>
           <p className="subtitulo">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus,
-            incidunt?
+            Testeando los cambios en vercel, por favor ignoren esto
           </p>
         </div>
         <div className="links">
