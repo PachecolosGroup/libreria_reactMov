@@ -1,0 +1,61 @@
+/* CSS Header */
+.header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 20px;
+  align-items: center;
+  padding: 40px 0;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.tituloLogo {
+  font-size: 34px;
+  font-family: "Merriweather", serif;
+  color: var(--shade-8);
+
+  .dark & {
+    color: var(--shade-1);
+  }
+}
+
+.subtituloLogo {
+  font-size: 21px;
+  color: var(--primario);
+  font-weight: 500;
+
+  .dark & {
+    color: var(--primario);
+  }
+}
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+@media screen and (max-width: 600px) {
+  .header .logo {
+    grid-column: span 3;
+    text-align: center;
+  }
+  .navbar {
+    grid-column: span 2;
+    justify-content: flex-start;
+    gap: 15px;
+  }
+
+  @media screen and (max-width: 570px) {
+    .header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+}
