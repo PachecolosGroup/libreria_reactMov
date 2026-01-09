@@ -11,24 +11,10 @@ const jobs = [
       categoria: "Diseño Web",
       contenido: (
         <>
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste
-            doloribus saepe voluptatem. Nihil quo beatae aut. Qui nam enim
-            blanditiis obcaecati natus aliquid, rem facilis amet dolore officiis
-            provident?
-          </p>
-
+          <p>tiro un test en este apartado para ver si aun me acuerdo lol</p>
           <img loading="lazy" src="./assets/trabajos/2.png" alt="" />
-
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste
-            doloribus saepe voluptatem. Nihil quo beatae aut. Qui nam enim
-            blanditiis obcaecati natus aliquid, rem facilis amet dolore officiis
-            provident?
-          </p>
-
+          <p>let me test this shit out men xD</p>
           <img loading="lazy" src="./assets/trabajos/3.png" alt="" />
-
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste
             doloribus saepe voluptatem. Nihil quo beatae aut. Qui nam enim
