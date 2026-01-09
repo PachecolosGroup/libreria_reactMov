@@ -37,12 +37,7 @@ const jobs = [
       categoria: "Desarrollo Web",
       contenido: (
         <>
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste
-            doloribus saepe voluptatem. Nihil quo beatae aut. Qui nam enim
-            blanditiis obcaecati natus aliquid, rem facilis amet dolore officiis
-            provident?
-          </p>
+          <p>Testing testing p - quizas salga o no</p>
 
           <img loading="lazy" src="./assets/trabajos/4.png" alt="" />
 
