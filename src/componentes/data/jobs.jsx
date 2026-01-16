@@ -11,7 +11,9 @@ const jobs = [
       categoria: "Diseño Web",
       contenido: (
         <>
-          <p>tiro un test en este apartado para ver si aun me acuerdo lol</p>
+          <p>Haciendo test 2026 - Enero 16 a las 11:13 minutos</p>
+          <h2>Testeando el titlo</h2>
+          <p>Haciendo test 2026 - Enero 16 a las 11:13 minutos</p>
           <img loading="lazy" src="./assets/trabajos/2.png" alt="" />
           <p>let me test this shit out men xD</p>
           <img loading="lazy" src="./assets/trabajos/3.png" alt="" />
